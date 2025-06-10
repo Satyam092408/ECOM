@@ -1,19 +1,8 @@
-# ECOM
-This is a E-commerce project 
-📦 E-Commerce Website
-Tech Stack: Java (Spring Boot), React.js, MySQL
+# React + Vite
 
-Description:
-This project is a full-stack E-Commerce web application that provides users with a seamless online shopping experience. The backend is built using Spring Boot, which handles business logic, product management, and user services. The frontend is developed with React.js to ensure a dynamic and responsive user interface. Data is stored and managed using a MySQL relational database.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Key Features:
+Currently, two official plugins are available:
 
-Product Management Module: Implemented CRUD operations for managing products (Add, View, Update, Delete).
-
-Shopping Cart Module: Allows users to add/remove items from the cart and proceed to checkout (in progress or completed based on your current status).
-
-User Authentication: (Add if implemented) Includes secure login/signup with role-based access.
-
-Responsive UI: Designed using React components to ensure accessibility across devices.
-
-Tools & IDE: Eclipse IDE for Enterprise Java, Postman for API testing, and Git for version control.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
